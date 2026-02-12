@@ -93,7 +93,7 @@ The script handles:
 Example:
 
 except requests.exceptions.Timeout:
-    print("Request Timed Out ❌")
+    print("Request Timed Out")
 
 ---
 
